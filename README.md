@@ -1,1 +1,1 @@
-# OST-Practical
+# OST-Pracs
